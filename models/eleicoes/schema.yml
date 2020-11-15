@@ -9,5 +9,14 @@ models:
             description: "wiki_eleicao city"
           - name: total_views
             description: "wiki_eleicao city"
+
+models:
+    - name: wiki_eleicao_for
+      description: "wiki_eleicao description"
+      columns:
+          - name: city
+            description: "wiki_eleicao city"
+          - name: total_views
+            description: "wiki_eleicao city"
           
 
